@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+
+:root {
+  font-family: "Rubik", sans-serif;
+}
+
+@theme {
+  --color-salmon: #F34B3F;
+  --color-dark: #201010;
+  --color-corn: #F5F3A3;
+  --color-darkbg: #022727;
+  --font-logo: "Alumni Sans SC", sans-serif;
+  --font-title: "Merriweather", serif;
+}
